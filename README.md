@@ -1,5 +1,8 @@
 # Administrative Division Extension Specification
 
+> [!WARNING]
+> This repository has been deprecated in favor of <https://github.com/vecorel/sdl>
+
 - **Title:** Administrative Division
 - **Identifier:** <https://fiboa.github.io/administrative-division-extension/v0.1.0/schema.yaml>
 - **Property Name Prefix:** admin
